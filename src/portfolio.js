@@ -161,9 +161,9 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/ball.png"),
+      projectName: "Ball on a beam",
+      projectDesc: "Balancing Ball on Beam system using Lagrange's equations and linearizing it with MATLAB Simulink ",
       footerLink: [
         {
           name: "Visit Website",
@@ -181,14 +181,14 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "Member E-technik",
+      company: "MainFranken Racing",
       companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      date: "October 2024 – Present",
+      desc: "I have been a part of this team for over 8 months, gaining hands-on experience in how a Formula Student race car is designed, built, and functions. ",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Designed a cooling system for the accumulator container by creating CAD models for intake and exhaust ducts with latches, ensuring optimal thermal management to prevent overheating during race conditions.",
+        "Developed the CAD model of the steering wheel and integrated it into the complete car assembly, ensuring accurate fit and functionality within the vehicle model."
       ]
     },
     {
