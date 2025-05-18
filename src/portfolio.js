@@ -163,7 +163,8 @@ const bigProjects = {
     {
       image: require("./assets/images/ball.png"),
       projectName: "Ball on a beam",
-      projectDesc: "Balancing Ball on Beam system using Lagrange's equations and linearizing it with MATLAB Simulink ",
+      projectDesc:
+        "Balancing Ball on Beam system using Lagrange's equations and linearizing it with MATLAB Simulink ",
       footerLink: [
         {
           name: "Visit Website",
