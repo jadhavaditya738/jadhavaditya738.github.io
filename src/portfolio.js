@@ -148,7 +148,7 @@ const bigProjects = {
   subtitle: "SOME PROJECTS I HAVE DONE THROUGHOUT MY COURSE",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/detection.png"),
       projectName: "Detection of Seafloor Contact",
       projectDesc:
         "Is an integrated project with Leibniz-Institut für Ostseeforschung Warnemünde (IOW)",
