@@ -330,7 +330,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+491784609706",
+  number: "+49 1784609706",
   email_address: "adityapravin.jadhav@study.thws.de"
 };
 
