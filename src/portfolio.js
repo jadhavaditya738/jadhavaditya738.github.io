@@ -184,7 +184,7 @@ const workExperiences = {
     {
       role: "Member E-technik",
       company: "MainFranken Racing",
-      companylogo: require("./assets/images/MFR_Logo.png"),
+      companylogo: require("./assets/images/MFF.jpg"),
       date: "October 2024 – Present",
       desc: "I have been a part of this team for over 8 months, gaining hands-on experience in how a Formula Student race car is designed, built, and functions. ",
       descBullets: [
@@ -195,7 +195,7 @@ const workExperiences = {
     {
       role: "Engineering Intern",
       company: "Alkem Laboratories Ltd.",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/alkem.jpg"),
       date: "Jun 2022 – July 2022",
       descBullets: [
         "Studied the working of Capsule filling, Strip packing, Induction packing and Glatt coating machines which are many used in the production of medical technology.",
@@ -327,7 +327,7 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Resume Section
