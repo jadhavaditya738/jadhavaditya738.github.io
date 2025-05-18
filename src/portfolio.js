@@ -69,52 +69,33 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-calculator"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      skillName: "Simulink",
+      fontAwesomeClassname: "fas fa-project-diagram"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "Altium Designer",
+      fontAwesomeClassname: "fas fa-microchip"
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      skillName: "Autodesk Inventor",
+      fontAwesomeClassname: "fas fa-cube"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      skillName: "Pyleecan",
+      fontAwesomeClassname: "fas fa-magnet"
+    },
+    {
+      skillName: "Word",
+      fontAwesomeClassname: "fas fa-file-word"
+    },
+  
+    {
+      skillName: "Excel",
+      fontAwesomeClassname: "fas fa-file-excel"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -126,7 +107,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "Technische Hochschule Würzburg-Schweinfurt",
       logo: require("./assets/images/harvardLogo.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2017 - April 2019",
