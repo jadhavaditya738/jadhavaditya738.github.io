@@ -197,12 +197,12 @@ const workExperiences = {
       company: "Alkem Laboratories Ltd.",
       companylogo: require("./assets/images/quoraLogo.png"),
       date: "Jun 2022 – July 2022",
-      descBullets: [ "Studied the working of Capsule filling, Strip packing, Induction packing and Glatt coating machines which are many used in the production of medical technology.",
-      "Assessed the team with assembly, maintenance and repair of machinery.",
-      "Tested the efficiency of a Variable frequency drive (VFD) through measuring the input-output powers across the VFD and the motor, evaluated its performance across various load conditions and the rotor speed to ensure optimal frequency."
-    ]
-    },
-    
+      descBullets: [
+        "Studied the working of Capsule filling, Strip packing, Induction packing and Glatt coating machines which are many used in the production of medical technology.",
+        "Assessed the team with assembly, maintenance and repair of machinery.",
+        "Tested the efficiency of a Variable frequency drive (VFD) through measuring the input-output powers across the VFD and the motor, evaluated its performance across various load conditions and the rotor speed to ensure optimal frequency."
+      ]
+    }
   ]
 };
 
