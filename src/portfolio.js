@@ -108,7 +108,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Technische Hochschule Würzburg-Schweinfurt",
-      logo: require("./assets/images/thws.png"),
+      logo: require("./assets/images/thws1.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2017 - April 2019",
       desc: "Participated in the research of XXX and published 3 papers.",
