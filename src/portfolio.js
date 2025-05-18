@@ -92,7 +92,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "Word",
       fontAwesomeClassname: "fas fa-file-word"
     },
-  
+
     {
       skillName: "Excel",
       fontAwesomeClassname: "fas fa-file-excel"
