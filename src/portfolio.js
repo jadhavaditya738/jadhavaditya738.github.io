@@ -46,12 +46,15 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "As a Mechatronics student, I work across mechanical, electrical, and software domains to develop integrated systems",
+  subTitle:
+    "As a Mechatronics student, I work across mechanical, electrical, and software domains to develop integrated systems",
   skills: [
     emoji(
       "⚡  Experience in embedded systems development using ATmega2560, BNO055 IMU, turbidity, and ultrasonic sensors"
     ),
-    emoji("⚡Skilled in MATLAB, Simulink, Autodesk Inventor, Altium Designer, and Pyleecan for simulations and system design"),
+    emoji(
+      "⚡Skilled in MATLAB, Simulink, Autodesk Inventor, Altium Designer, and Pyleecan for simulations and system design"
+    ),
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
     )
