@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Aditya Jadhav",
-  title: "Hi all, I'm Aditya",
+  title: "Hi, I'm Aditya",
   subTitle: emoji(
     "A passionate 🚀 Mechatronics Engineering student blending control theory, embedded systems, and CAD to build real-world solutions—from underwater sensing to electric vehicle cooling systems."
   ),
@@ -46,12 +46,12 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "As a Mechatronics student, I work across mechanical, electrical, and software domains to develop integrated systems",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡  Experience in embedded systems development using ATmega2560, BNO055 IMU, turbidity, and ultrasonic sensors"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡Skilled in MATLAB, Simulink, Autodesk Inventor, Altium Designer, and Pyleecan for simulations and system design"),
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
     )
@@ -62,8 +62,8 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "MATLAB",
+      fontAwesomeClassname: "fas fa-calculator"
     },
     {
       skillName: "css3",
