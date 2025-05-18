@@ -184,7 +184,7 @@ const workExperiences = {
     {
       role: "Member E-technik",
       company: "MainFranken Racing",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/MFR_Logo.png"),
       date: "October 2024 – Present",
       desc: "I have been a part of this team for over 8 months, gaining hands-on experience in how a Formula Student race car is designed, built, and functions. ",
       descBullets: [
