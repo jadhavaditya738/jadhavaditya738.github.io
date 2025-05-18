@@ -116,8 +116,7 @@ const educationInfo = {
         "Automation and Robotics",
         "Electric Drives and Power electronics"
       ]
-    },
-    
+    }
   ]
 };
 
