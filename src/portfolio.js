@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Aditya Jadhav",
+  username: "aaaaAditya Jadhav",
   title: "Hi all, I'm Aditya",
   subTitle: emoji(
     "A passionate 🚀 Mechatronics Engineering student blending control theory, embedded systems, and CAD to build real-world solutions—from underwater sensing to electric vehicle cooling systems."
