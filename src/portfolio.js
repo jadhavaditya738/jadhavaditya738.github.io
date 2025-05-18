@@ -109,22 +109,15 @@ const educationInfo = {
     {
       schoolName: "Technische Hochschule Würzburg-Schweinfurt",
       logo: require("./assets/images/thws1.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      subHeader: "Bachelor's of Engineering in Mechatronics",
+      duration: "October 2022 - Present",
+      desc: "In my sixth semester with the following specializations",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Automation and Robotics",
+        "Electric Drives and Power electronics"
       ]
     },
-    {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-    }
+    
   ]
 };
 
@@ -134,15 +127,15 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
+      Stack: "3D CAD", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "Electronics",
       progressPercentage: "70%"
     },
     {
-      Stack: "Programming",
+      Stack: "Matlab coding",
       progressPercentage: "60%"
     }
   ],
