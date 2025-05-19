@@ -26,7 +26,7 @@ const greeting = {
     "A passionate 🚀 Mechatronics Engineering student blending control theory, embedded systems, and CAD to build real-world solutions—from underwater sensing to electric vehicle cooling systems."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/17PKYcKt7NzhhpDWQXBL3wM_J4Q_Rue8a/view?usp=sharing", // Set to empty to hide the button
+    "http://saayahealth.com/", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
