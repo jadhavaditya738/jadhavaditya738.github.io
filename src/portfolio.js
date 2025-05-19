@@ -321,7 +321,13 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+49 1784609706",
-  email_address: "adityapravin.jadhav@study.thws.de"
+  email_address: "adityapravin.jadhav@study.thws.de",
+  footerLink: [
+        {
+          name: "Resume",
+          url: "https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto"
+        }
+      ]
 };
 
 // Twitter Section
