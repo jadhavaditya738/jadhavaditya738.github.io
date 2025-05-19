@@ -240,28 +240,14 @@ const achievementSection = {
       subtitle:
         "Participation in a lecture of the “Virtuelle Hochschule Bayern” (vhb) at the Deggendorf Institute of Technology (DIT) and passed the exam",
       image: require("./assets/images/DIT.webp"),
-      imageAlt: "Google Assistant Action Logo",
+      imageAlt: "Programming in C++",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "Programming in C++",
+          url: "https://drive.google.com/file/d/1NEdNJF6jrQkZWg94YkEYbWU53esYBs35/view?usp=sharing"
         }
       ]
     },
-
-    {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
-      ]
-    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -345,7 +331,7 @@ const twitterDetails = {
   display: true // Set true to display this section, defaults to false
 };
 
-const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
