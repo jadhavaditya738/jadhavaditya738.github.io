@@ -63,7 +63,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fas fa-file-alt"></i>
+          <i className="fab fa-facebook-f"></i>
           <span></span>
         </a>
       ) : null}
