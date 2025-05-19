@@ -25,7 +25,8 @@ const greeting = {
   subTitle: emoji(
     "A passionate 🚀 Mechatronics Engineering student blending control theory, embedded systems, and CAD to build real-world solutions—from underwater sensing to electric vehicle cooling systems."
   ),
-  url: "https://drive.google.com/file/d/1jE5zjoqOyOm7pqqDv3HbG51t1hB4QzsM/view?usp=sharing", // Set to empty to hide the button
+  resumeLink:
+    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
