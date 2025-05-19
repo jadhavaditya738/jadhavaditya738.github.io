@@ -26,7 +26,7 @@ const greeting = {
     "A passionate 🚀 Mechatronics Engineering student blending control theory, embedded systems, and CAD to build real-world solutions—from underwater sensing to electric vehicle cooling systems."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -321,13 +321,8 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+49 1784609706",
-  email_address: "adityapravin.jadhav@study.thws.de",
-  footerLink: [
-        {
-          name: "Resume",
-          url: "https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto"
-        }
-      ]
+  email_address: "adityapravin.jadhav@study.thws.de"
+
 };
 
 // Twitter Section
