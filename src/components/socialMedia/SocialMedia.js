@@ -56,14 +56,14 @@ export default function socialMedia() {
         </a>
       ) : null}
 
-      {socialMediaLinks.facebook ? (
+      {socialMediaLinks.resume ? (
         <a
-          href={socialMediaLinks.facebook}
-          className="icon-button facebook"
+          href={socialMediaLinks.resume}
+          className="icon-button resume"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fab fa-facebook-f"></i>
+          <i className="fas fa-file-pdf"></i>
           <span></span>
         </a>
       ) : null}
