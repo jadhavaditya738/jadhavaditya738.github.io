@@ -25,9 +25,8 @@ const greeting = {
   subTitle: emoji(
     "A passionate 🚀 Mechatronics Engineering student blending control theory, embedded systems, and CAD to build real-world solutions—from underwater sensing to electric vehicle cooling systems."
   ),
-  resumeLink:
-    "http://saayahealth.com/", // Set to empty to hide the button
-  displayGreeting: false // Set false to hide this section, defaults to true
+  url: "https://drive.google.com/file/d/1jE5zjoqOyOm7pqqDv3HbG51t1hB4QzsM/view?usp=sharing", // Set to empty to hide the button
+  displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
