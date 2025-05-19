@@ -56,10 +56,10 @@ export default function socialMedia() {
         </a>
       ) : null}
 
-      {socialMediaLinks.resume ? (
+      {socialMediaLinks.facebook ? (
         <a
-          href={socialMediaLinks.resume}
-          className="icon-button resume"
+          href={socialMediaLinks.facebook}
+          className="icon-button facebook"
           target="_blank"
           rel="noopener noreferrer"
         >
