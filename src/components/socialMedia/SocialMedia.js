@@ -63,7 +63,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fas fa-file-pdf"></i>
+          <i className="fas fa-file-alt"></i>
           <span></span>
         </a>
       ) : null}
