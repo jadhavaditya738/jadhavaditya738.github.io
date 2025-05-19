@@ -36,6 +36,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/adityapravinjadhav",
   gmail: "adityapravin.jadhav@study.thws.de",
   gitlab: "https://gitlab.com/jadhavaditya738-group",
+  resume: "https://drive.google.com/file/d/1jE5zjoqOyOm7pqqDv3HbG51t1hB4QzsM/view?usp=sharing",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
