@@ -56,7 +56,7 @@ const skillsSection = {
       "⚡Skilled in MATLAB, Simulink, Autodesk Inventor, Altium Designer, and Pyleecan for simulations and system design"
     ),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ High affinity towards motor sports "
     )
   ],
 
