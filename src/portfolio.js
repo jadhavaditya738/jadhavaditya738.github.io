@@ -309,7 +309,7 @@ const podcastSection = {
 
 // Resume Section
 const resumeSection = {
-  title: "Resume",
+  title: "resume",
   subtitle: "Feel free to download my resume",
 
   // Please Provide with Your Podcast embeded Link
