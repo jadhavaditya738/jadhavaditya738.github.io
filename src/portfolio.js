@@ -27,7 +27,7 @@ const greeting = {
   ),
   resumeLink:
     "https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto", // Set to empty to hide the button
-  displayGreeting: false // Set false to hide this section, defaults to true
+  displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
